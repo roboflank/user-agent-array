@@ -1,6 +1,6 @@
 # user-agent-array
 
-> An array of user agent strings.
+> An array of user agent strings, typescript supported
 
 [![npm](https://img.shields.io/npm/v/user-agent-array.svg)](https://www.npmjs.com/package/user-agent-array)
 ![Node version](https://img.shields.io/node/v/user-agent-array.svg)
@@ -16,7 +16,7 @@ $ npm i user-agent-array -S
 ## Usage
 
 ```js
-console.log(require('user-agent-array'))
+console.log(require("user-agent-array"));
 ```
 
 ## API
