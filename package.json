@@ -1,7 +1,7 @@
 {
   "name": "user-agent-array-ts",
-  "version": "2.1.0",
-  "description": "An array of user agent strings, typescript supported",
+  "version": "2.1.1",
+  "description": "An array of user agent strings, typescript supported.",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "files": [
