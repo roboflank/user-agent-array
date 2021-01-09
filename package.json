@@ -1,6 +1,6 @@
 {
   "name": "user-agent-array-ts",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "An array of user agent strings, typescript supported.",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -15,10 +15,10 @@
     "tape": "^4.8.0",
     "typescript": "^4.1.3"
   },
-  "homepage": "https://github.com/wamburu/user-agent-array-ts",
+  "homepage": "https://github.com/roboflank/user-agent-array-ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wamburu/user-agent-array-ts.git"
+    "url": "https://github.com/roboflank/user-agent-array-ts.git"
   },
   "scripts": {
     "test": "tape test && standard",
